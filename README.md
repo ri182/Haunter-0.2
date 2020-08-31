@@ -1,5 +1,3 @@
-Bash scripts added for background running
-
 # Vi sitter här i Venten och spelar lite DotA
 
 
@@ -31,4 +29,4 @@ Bash scripts added for background running
                               \  '  \   `...'
                                `""   `,'
             
-Vi sitter här i Venten och spelar lite DotA
+Bash scripts added for background running
