@@ -1,7 +1,6 @@
-## Haunter ebay script
 Bash scripts added for background running
 
-gwehehe
+# Vi sitter här i Venten och spelar lite DotA
 
 
 
